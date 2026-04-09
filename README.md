@@ -1,5 +1,5 @@
-<h1>Hi, I'm Himanshu! <br/><a href="https://github.com/devhimvats">Certified Salesforce Administrator</a>,
-<h2>👨‍💻 Software Development Projects:</h2>
+<h1>Hi, I'm Himanshu! <br/><a href="https://github.com/devhimvats">Certified Salesforce Administrator</a>
+<h2>👨‍💻 SalesForce Admin Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
