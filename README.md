@@ -41,7 +41,7 @@ End-to-end Salesforce implementations simulating real companies.
 👉 Goal: Demonstrate real-world, job-ready expertise
 
 ## 📫 Connect With Me
-- LinkedIn: ([add link](https://www.linkedin.com/in/devhim/))
+- LinkedIn(https://www.linkedin.com/in/devhim/))
 
   <h2>👨‍💻 SalesForce Admin Mini Projects:</h2>
 
