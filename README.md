@@ -2,11 +2,6 @@
 Salesforce professional with 5 years of experience in CRM, automation, and business process optimization.  
 Focused on building real-world Cloud solutions with hands-on projects.
 
-<h2>🤔 What You’ll Find Here </h2>
-- Topic-wise hands-on use cases (Salesforce Admin & Dev concepts)<br>
-- Mini Projects (focused implementations)<br>
-- Major Projects (end-to-end business solutions)
-
 ## 📂 Portfolio Sections
 
 ### 1. 📘 Topic-wise Use Case Practice
@@ -45,6 +40,8 @@ End-to-end Salesforce implementations simulating real companies.
 
 👉 Goal: Demonstrate real-world, job-ready expertise
 
+## 📫 Connect With Me
+- LinkedIn: ([add link](https://www.linkedin.com/in/devhim/))
 
   <h2>👨‍💻 SalesForce Admin Mini Projects:</h2>
 
