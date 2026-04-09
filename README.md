@@ -4,13 +4,13 @@ Focused on building real-world Cloud solutions with hands-on projects.
 
 ## 📂 Portfolio Sections
 
-### 1. 📘 Topic-wise Use Case Practice
+### 1. 📘 <a href="https://github.com/devhimvats/Topic-wise-Use-Case-Practice">Topic-wise Use Case Practice</a>
 Small, focused exercises to master individual concepts to build strong fundamentals with real scenarios
 
-### 2. 🧩 Mini Projects
+### 2. 🧩<a href="https://github.com/devhimvats/Mini-Projects"> Mini Projects</a>
 Short implementations combining multiple concepts to solve specific business problems
 
-### 3. 🚀 Major Projects
+### 3. 🚀 <a href="https://github.com/devhimvats/Major-Projects">Major Projects</a>
 End-to-end Salesforce implementations simulating real companies to emonstrate real-world, job-ready expertise
 
 ## 📫 Connect With Me
