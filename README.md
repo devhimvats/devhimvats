@@ -14,11 +14,11 @@ Short implementations combining multiple concepts to solve specific business pro
 End-to-end Salesforce implementations simulating real companies to emonstrate real-world, job-ready expertise
 
 ## 📫 Connect With Me
-- <a href="https://www.linkedin.com/in/devhim/">LinkedIn</a>
+-LinkedIn
 <h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="Himanshu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+ <a href="https://www.linkedin.com/in/devhim/"><img align="left" alt="Himanshu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
-[linkedin]: https://www.linkedin.com/in/devhim/
+
 <!--
 
   <h2>👨‍💻 SalesForce Admin Mini Projects:</h2>
