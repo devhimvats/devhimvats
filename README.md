@@ -16,7 +16,7 @@ End-to-end Salesforce implementations simulating real companies to emonstrate re
 ## 📫 Connect With Me
 -LinkedIn
 <h2> 🤳 Connect with me:</h2>
- <a href="https://www.linkedin.com/in/devhim/"><img align="left" alt="Himanshu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+ <a href="https://www.linkedin.com/in/devhim/"><img align="left" alt="Himanshu | LinkedIn" width="22px" src="linkedin.svg" /></a>
 
 
 <!--
