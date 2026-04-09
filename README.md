@@ -5,22 +5,13 @@ Focused on building real-world Cloud solutions with hands-on projects.
 ## 📂 Portfolio Sections
 
 ### 1. 📘 Topic-wise Use Case Practice
-Small, focused exercises to master individual concepts.
-👉 Goal: Build strong fundamentals with real scenarios
+Small, focused exercises to master individual concepts to build strong fundamentals with real scenarios
 
 ### 2. 🧩 Mini Projects
-Short implementations combining multiple concepts.
-👉 Goal: Solve specific business problems
+Short implementations combining multiple concepts to solve specific business problems
 
 ### 3. 🚀 Major Projects
-End-to-end Salesforce implementations simulating real companies.
-
-➡️ Projects:
-- Complete Sales Cloud Implementation
-- CRM System with Lead → Opportunity → Revenue tracking
-- Product & Price Book Integration
-
-👉 Goal: Demonstrate real-world, job-ready expertise
+End-to-end Salesforce implementations simulating real companies to emonstrate real-world, job-ready expertise
 
 ## 📫 Connect With Me
 - <a href="https://www.linkedin.com/in/devhim/">LinkedIn</a>
