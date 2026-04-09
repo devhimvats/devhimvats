@@ -1,6 +1,6 @@
-<h1>Hi, I'm Himanshu! <br/><a href="https://github.com/devhimvats">Certified Salesforce Administrator & Aspiring Developer</a></h1>
+<h1>Hi, I'm Himanshu! <br/><a href="https://github.com/devhimvats">Certified Salesforce Administrator & Developer</a></h1>
 Salesforce professional with 5 years of experience in CRM, automation, and business process optimization.  
-Focused on building real-world Cloud solutions with hands-on projects.
+Focused on building real-world Salesforce solutions with hands-on projects.
 
 ## 📂 Portfolio Sections
 
