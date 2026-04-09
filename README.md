@@ -6,29 +6,11 @@ Focused on building real-world Cloud solutions with hands-on projects.
 
 ### 1. 📘 Topic-wise Use Case Practice
 Small, focused exercises to master individual concepts.
-
-➡️ Covers:
-- Lead Management (assignment rules, auto-response, lifecycle)
-- Opportunity Management (stages, path, automation)
-- Security Model (roles, profiles, sharing rules)
-- Reports & Dashboards
-- Flow Automation
-
 👉 Goal: Build strong fundamentals with real scenarios
-
----
 
 ### 2. 🧩 Mini Projects
 Short implementations combining multiple concepts.
-
-➡️ Examples:
-- Lead Nurturing Automation System
-- Inactive Lead Reassignment Process
-- Opportunity Follow-up Reminder System
-
 👉 Goal: Solve specific business problems
-
----
 
 ### 3. 🚀 Major Projects
 End-to-end Salesforce implementations simulating real companies.
