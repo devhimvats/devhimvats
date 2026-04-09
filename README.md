@@ -1,11 +1,11 @@
 <h1>Hi, I'm Himanshu! <br/><a href="https://github.com/devhimvats">Certified Salesforce Administrator & Developer</a></h1>
-Salesforce professional with 5 years of experience in CRM, automation, and business process optimization.  
+Salesforce professional with 5 years of experience in CRM Data Modelling, automation, and business process optimization.  
 Focused on building real-world Salesforce solutions with hands-on projects.
 
 ## 📂 Portfolio Sections
 
 ### 1. 📘 <a href="https://github.com/devhimvats/Topic-wise-Use-Case-Practice">Topic-wise Use Case Practice</a>
-Small, focused exercises to master individual concepts to build strong fundamentals with real scenarios
+Small, focused exercises to master individual concepts to builds strong fundamentals with real scenarios
 
 ### 2. 🧩<a href="https://github.com/devhimvats/Mini-Projects"> Mini Projects</a>
 Short implementations combining multiple concepts to solve specific business problems
