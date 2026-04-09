@@ -13,8 +13,6 @@ Short implementations combining multiple concepts to solve specific business pro
 ### 3. 🚀 <a href="https://github.com/devhimvats/Major-Projects">Major Projects</a>
 End-to-end Salesforce implementations simulating real companies to emonstrate real-world, job-ready expertise
 
-## 📫 Connect With Me
--LinkedIn
 <h2> 🤳 Connect with me:</h2>
  <a href="https://www.linkedin.com/in/devhim/">Linkedin</a>
 
